@@ -66,6 +66,6 @@ Add more features like caffeine intake, workout intensity, etc.
 📬 Contact
 For feedback, suggestions, or collaborations:
 
-Email: your-rohitpawar07125@gmail.com
+Email: rohitpawar07125@gmail.com
 
 LinkedIn: www.linkedin.com/in/rohit712
