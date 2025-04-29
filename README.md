@@ -42,7 +42,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/sleep-quality-predictor.git
+git clone https://github.com/Rohit-712/Sleep-Quality-Predictor
 Install dependencies:
 
 bash
